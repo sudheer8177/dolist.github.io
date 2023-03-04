@@ -28,8 +28,9 @@
 
  @media(max-width:420px){
     .sud{
+        margin-top:20px;
         width: 80%;
-        height: 800px;
+        height: 900px;
     }
     .Enter{
         width: 95%;
