@@ -29,10 +29,11 @@
     .sud{
         margin-top:20px;
         width: 80%;
-        height: 600px;
+        height: 400px;
     }
     .Enter{
         width: 95%;
+        height:50px;
         margin-bottom: 10px;
     }
     #spi{
@@ -45,6 +46,7 @@
     }
     .tasklist{
         overflow-y: scroll ;
+        height: 400px;
     }
     .item{
         margin-bottom: 20px;
