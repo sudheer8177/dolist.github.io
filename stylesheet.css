@@ -106,8 +106,9 @@
 
     }
     .tasklist{
+        height:400px;
         overflow-y: scroll ;
-        height:470px;
+        
     }
     .item{
         margin-bottom: 20px;
@@ -133,8 +134,9 @@
 
     }
     .tasklist{
+         height:400px
         overflow-y: scroll ;
-        height:450px
+       
     }
     .item{
         margin-bottom: 20px;
