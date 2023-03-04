@@ -29,7 +29,7 @@
     .sud{
         margin-top:20px;
         width: 80%;
-        height: 400px;
+        height: 500px;
     }
     .Enter{
         width: 95%;
@@ -46,7 +46,7 @@
     }
     .tasklist{
         overflow-y: scroll ;
-        height: 400px;
+        height: 500px;
     }
     .item{
         margin-bottom: 20px;
