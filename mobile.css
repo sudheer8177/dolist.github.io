@@ -1,7 +1,7 @@
 @media(max-width: 360px){
     .sud{
         width: 80%;
-        height: 450px;
+        height: 470px;
     }
     .Enter{
         width: 95%;
@@ -17,7 +17,7 @@
     }
     .tasklist{
         overflow-y: scroll ;
-        height:450px;
+        height:470px;
     }
     .item{
         margin-bottom: 20px;
